@@ -8,6 +8,14 @@
 
 Hey, I’m Tejal! A Computer Science student with a love for all things tech and aesthetics. My pink desk setup is where I dive into coding. It’s my creative space that keeps me inspired and productive! 💖
 
+<details>
+<summary>My top Languages</summary>
+
+YOUR TABLE
+
+</details>
+
+
 | Rank | LANGUAGES     |
 |-----:|---------------|
 |     1|      DSA      |
@@ -15,9 +23,3 @@ Hey, I’m Tejal! A Computer Science student with a love for all things tech and
 |     3|     Pyhon     |
 |     4|       C       |
 
-<details>
-<summary>My top Languages</summary>
-
-YOUR TABLE
-
-</details>
